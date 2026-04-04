@@ -66,16 +66,6 @@ Tablaeu Dashboard: https://public.tableau.com/app/profile/thomas.segal/viz/Book1
 - We focused mainly on visits as frequency highlights the demand for medication in a borough. <br/>
 - Our most important insight is the understanding of why boroughs have the numbers they do. We then were able to specify which borough needs the most medicine. <br/>
 
-## 4/3 UPDATES to Tableau:
-### Seasonality
-- Now contains a filter to adjust for the seasons (Winter, Fall, Spring, Summer).
-    - Useful to specify seasonal differences between boroughs.
-
-### KPIs
-- Two KPIs implemented for total amount of hospital visits and admissions to highlight magnitude.
-- Compares 2021 to 2022 year-over-year and finds percent difference.
-    - Numbers change when adding filters for more interactivity.
-
 ## April 3 Updates (Tableau):
 ### Seasonality
 - Added a season filter (Winter, Spring, Summer, Fall).
@@ -88,6 +78,8 @@ Tablaeu Dashboard: https://public.tableau.com/app/profile/thomas.segal/viz/Book1
     - Total admissions
 - Displays year-over-year comparison (2021 vs. 2022) with percentage change.
 - KPIs dynamically update based on selected filters for more interactive analysis.
+
+[Updated Tableau Link](https://public.tableau.com/app/profile/vincent.perez8283/viz/dashboard_updates/Dashboard?publish=yes)
 
 ### Linked Ins:
 Thomas: https://www.linkedin.com/in/thomas-segal-093370369
