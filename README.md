@@ -100,8 +100,8 @@ Used dataset for educational purposes.
 
 ### Per 1,000 Visits (Standardization)
 - Standardizing the borough numbers with a new table that calculated admissions per 1,000 visits
-- **Why:** "Comparing Apples to Apples", population was a big factor in original analysis and adding a per 1,000 makes a fair comparison between boroughs.
-- Reveals a different story, now we are able to compared by proportions and not magnitudes.
+- **Why:** "Comparing Apples to Apples", population was used as justificiation in original analysis and adding a per 1,000 makes for fair comparison between boroughs.
+- Reveals a different story, now we are able to compare by proportions and not solely magnitudes.
 
 ### Overall Learnings
 Changes to the original recommendation to make two complementary recommendations:
