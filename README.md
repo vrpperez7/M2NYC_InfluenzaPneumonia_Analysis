@@ -66,21 +66,6 @@ Tablaeu Dashboard: https://public.tableau.com/app/profile/thomas.segal/viz/Book1
 - We focused mainly on visits as frequency highlights the demand for medication in a borough. <br/>
 - Our most important insight is the understanding of why boroughs have the numbers they do. We then were able to specify which borough needs the most medicine. <br/>
 
-## April 3 Updates (Tableau):
-### Seasonality
-- Added a season filter (Winter, Spring, Summer, Fall).
-- Enables comparison of seasonal patterns across boroughs.
-- Helps highlight how trends vary depending on the time of year.
-
-### Key Performance Indicators (KPIs)
-- Introduced two KPIs:
-    - Total hospital visits
-    - Total admissions
-- Displays year-over-year comparison (2021 vs. 2022) with percentage change.
-- KPIs dynamically update based on selected filters for more interactive analysis.
-
-[Updated Tableau Link](https://public.tableau.com/app/profile/vincent.perez8283/viz/dashboard_updates/Dashboard?publish=yes)
-
 ### Linked Ins:
 Thomas: https://www.linkedin.com/in/thomas-segal-093370369
 <br/>
@@ -88,3 +73,25 @@ Vincent: https://www.linkedin.com/in/thevinceperez/
 <br/>
 <br/>
 Used dataset for educational purposes.
+
+## Expanded Analysis
+### Seasonality
+- Added a season filter (Winter, Spring, Summer, Fall).
+- Enables comparison of seasonal patterns across boroughs.
+- **Why:** Highlights how trends vary based on the time of year.
+
+### Key Performance Indicators (KPIs)
+- Introduced two KPIs:
+    - Total hospital visits
+    - Total admissions
+- **Why:** Displays year-over-year comparison (2021 vs. 2022) with percentage change.
+- KPIs dynamically update based on selected filters for more interactive analysis.
+
+### Per 1,000 Visits (Standardization)
+- Standardizing the borough numbers with a new table that calculated admissions per 1,000 visits
+- **Why:** "Comparing Apples to Apples", population was a big factor in original analysis and adding a per 1,000 makes a fair comparison between boroughs.
+- Reveals a different story, now we are able to compared by proportions and not magnitudes.
+
+
+
+[Updated Tableau Link](https://public.tableau.com/app/profile/vincent.perez8283/viz/dashboard_updates/Dashboard?publish=yes)
