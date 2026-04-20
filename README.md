@@ -1,5 +1,15 @@
 # Department of Health and Mental Hygiene Analysis
 
+### by [Vincent Perez](https://www.linkedin.com/in/thevinceperez/) and [Thomas Segal](https://www.linkedin.com/in/thomas-segal-da/)
+
+## Table of Contents
+- [Project Overview and Business Problem](#project-overview)
+- [Data Cleaning](#data-cleaning)
+- [Analysis](#analysis)
+- [Results](#recommendation)
+- [Reflection](#reflection)
+- [Expanded Analysis](#expanded-analysis)
+
 ## Project Overview
 We're assisting the Department of Health and Mental Hygiene within NYC to explore which areas need medicine most. We investigated the data to gain further insight of boroughs in NYC and their frequency of influenza/pneumonia visits.
 
@@ -18,7 +28,7 @@ We're assisting the Department of Health and Mental Hygiene within NYC to explor
 <img width="205" height="131" alt="Screenshot 2025-07-17 at 10 59 37 AM" src="https://github.com/user-attachments/assets/0ac68e00-08e5-4750-bc49-e6a572fa71a1" />
 <br/>
 
-## Medical Analysis
+## Analysis
 1. Brooklyn has the **HIGHEST** number of pneumonia/infleunza visits.
 
 <br/>
@@ -42,7 +52,8 @@ We're assisting the Department of Health and Mental Hygiene within NYC to explor
 <br/>
 <br/>
 
-## As shown in our analysis, we recommend sending more influenza/pneumonia medicine to Brooklyn due to:
+## Recommendation
+### We recommend sending more influenza/pneumonia medicine to Brooklyn due to:
 The **severity** of infleunza/pneumonia visits, as Brooklyn had the most admissions as shown in analysis 1.
 
 <br/>
@@ -92,6 +103,10 @@ Used dataset for educational purposes.
 - **Why:** "Comparing Apples to Apples", population was a big factor in original analysis and adding a per 1,000 makes a fair comparison between boroughs.
 - Reveals a different story, now we are able to compared by proportions and not magnitudes.
 
-
+### Overall Learnings
+Changes to the original recommendation to make two complementary recommendations:
+- Brooklyn demands resources due to the magnitude of admissions and visits.
+- Staten Island requires resources due to the severity of influenza/pneumonia visits.
+    - Although having the lowest total visits, had the highest proportion of admissions to those visits at 260 admissions per 1,000 visits
 
 [Updated Tableau Link](https://public.tableau.com/app/profile/vincent.perez8283/viz/dashboard_updates/Dashboard?publish=yes)
